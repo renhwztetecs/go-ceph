@@ -1,4 +1,4 @@
-package rados
+package rados2
 
 // #cgo LDFLAGS: -lrados
 // #include <stdlib.h>
